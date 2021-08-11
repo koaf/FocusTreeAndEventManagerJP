@@ -1,0 +1,5 @@
+# FocusTreeAndEventManagerJP
+FocusTreeAndEventManager + JP
+これはFocusTreeAndEventManagerを日本語化したソフトです。 翻訳はDeepl翻訳を主に使っています。ですが中には意味の分からん日本語等もありますのでyoutubeのコメント欄やここのコメント欄にでも書いておいてください。 image image image
+
+FocusTreeAndEventManagerの改造ですのでなんか言われたら速攻消します。
